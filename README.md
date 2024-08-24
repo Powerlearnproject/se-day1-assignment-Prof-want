@@ -30,6 +30,12 @@ Security: In today's digital world, security is a paramount concern. Software en
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+The Advent of High-Level Programming Languages:
+The introduction of high-level programming languages such as FORTRAN (1957), COBOL (1959), and ALGOL (1960) was a major milestone in software engineering
+
+The Software Crisis and the Birth of Software Engineering as a Discipline: By the late 1960s, the growing complexity of software systems led to what was known as the "software crisis."
+
+The Rise of Object-Oriented Programming: Object-oriented programming (OOP) emerged as a powerful paradigm in the 1980s, with languages like C++ (1985) and Java (1995) gaining popularity.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
