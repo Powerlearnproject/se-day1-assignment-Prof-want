@@ -61,6 +61,33 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer:
+Role: A software developer (also known as a programmer or coder) is responsible for designing, building, testing, and maintaining software applications or systems.
+Responsibilities:
+Writing code: Developers create the actual software by writing code in programming languages like Python, Java, C++, or JavaScript.
+Designing solutions: They analyze requirements and design software solutions that meet user needs.
+Debugging and testing: Developers identify and fix bugs, ensuring the software functions correctly.
+Collaboration: They work closely with other team members, including designers, QA engineers, and project managers.
+Continuous learning: Developers stay updated with new technologies and best practices.
+
+Quality Assurance (QA) Engineer:
+Role: QA engineers play a vital role in ensuring that software products meet high standards of quality and functionality.
+Responsibilities:
+Test planning: Creating comprehensive test plans and test cases based on software requirements.
+Test execution: Performing various testing procedures, such as functional, performance, and regression testing.
+Defect identification: Identifying and reporting defects in software products.
+Collaboration: Working closely with software developers, project managers, and other stakeholders.
+Ensuring quality: Ensuring that the software meets industry standards and end-user expectations.
+
+Project Manager:
+Role: The project manager is crucial for successful software project completion. They coordinate team members, allocate resources, and streamline processes.
+Responsibilities:
+Project planning: Outlining the entire project, setting goals, and estimating project characteristics.
+Leading: Assembling and leading the project team, assigning tasks, and managing team morale.
+Execution: Launching and supervising project activities to achieve objectives.
+Time management: Keeping the team on track and adhering to schedules.
+Budgeting: Creating and adhering to the project budget.
+Maintenance: Encouraging constant product testing and quality control
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
