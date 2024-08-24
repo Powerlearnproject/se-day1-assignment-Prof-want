@@ -39,7 +39,23 @@ The Rise of Object-Oriented Programming: Object-oriented programming (OOP) emerg
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The Software Development Life Cycle (SDLC) is a structured process used for developing software systems. It outlines a series of phases that software projects typically go through, ensuring systematic and efficient development. Here are the key phases:
 
+1. Planning
+Description: This initial phase involves defining the project's scope, objectives, and feasibility. It includes gathering requirements from stakeholders, estimating costs, scheduling, and resource allocation.
+Importance: Proper planning sets the foundation for the project, ensuring that all stakeholders have a clear understanding of what the project aims to achieve and how it will be executed.
+2. Requirements Analysis
+Description: In this phase, detailed requirements are gathered and documented. This involves understanding what the users need from the software, which could include functional and non-functional requirements.
+Importance: Accurate requirements analysis is crucial to ensure that the final software product meets user needs and expectations.
+3. Design
+Description: The design phase involves creating the architecture of the software. This includes defining the overall system structure, components, data flow, user interfaces, and database design.
+Importance: A well-thought-out design serves as a blueprint for developers, guiding them in building a system that is robust, scalable, and maintainable.
+4. Implementation (or Coding)
+Description: During this phase, developers write the actual code based on the design specifications. The software is built by implementing the components and functionalities defined in the design phase.
+Importance: Implementation is where the conceptual designs become a reality, translating ideas and plans into a functional software product.
+5. Testing
+Description: The testing phase involves evaluating the software to ensure it works correctly and meets the specified requirements. This includes unit testing, integration testing, system testing, and acceptance testing.
+Importance: Thorough testing is essential to identify and fix defects, ensuring the software is reliable, secure, and performs as expected
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
