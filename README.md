@@ -156,6 +156,14 @@ Prioritize Quality: Deliver value without compromising quality
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the process of refining prompts that a person can input into a generative artificial intelligence (AI) service to create text or images1. Essentially, it involves crafting queries or instructions that help AI models understand and respond to diverse inputs.
+IMPORTANCE:
+1.Quality Outputs: Good prompts lead to better results. By carefully constructing prompts, we guide AI systems to generate meaningful and accurate content, whether it’s text, code, data summaries, or images. Well-crafted prompts reduce the need for manual review and editing, saving time and effort.
+2.Understanding Nuance: Prompt engineers play a pivotal role in bridging the gap between raw queries and meaningful AI-generated responses. They ensure that the AI comprehends not only the language but also the nuance and intent behind the query.
+3.Optimizing Specific and General Responses: Effective prompt engineering optimizes both specific and general outputs. It allows AI models to adapt to a wide range of queries, from simple to highly technical, by refining the input prompts.
+4.Techniques: Techniques like tokenization, model parameter tuning, and top-k sampling contribute to successful prompt engineering. These methods help mold the model’s output, ensuring coherent and meaningful responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vaugue: give me a name of a market.
+improved prompt: give me the name of a market that sells bags in my location.
+
