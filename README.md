@@ -164,6 +164,12 @@ IMPORTANCE:
 4.Techniques: Techniques like tokenization, model parameter tuning, and top-k sampling contribute to successful prompt engineering. These methods help mold the model’s output, ensuring coherent and meaningful responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vaugue: give me a name of a market.
+
+1.Vaugue: give me a name of a market.
 improved prompt: give me the name of a market that sells bags in my location.
 
+2.Vague Prompt: “Write a blog post.”
+
+Improved Prompt: “Compose a 500-word blog post on the benefits of mindfulness meditation for reducing stress and improving focus.”
+
+Explanation: The vague prompt lacks specificity and leaves room for interpretation. By refining it, we provide clear instructions: the topic (mindfulness meditation), the desired length (500 words), and the purpose (highlighting benefits). This improved prompt guides the AI more effectively, resulting in a more relevant and accurate output1
