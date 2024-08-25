@@ -109,7 +109,12 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Lack of Workflow Visibility:
+Challenge: Many development teams lack clarity about project status, individual activities, and challenges. This leads to inefficiencies and misalignment.
+Solution:
+Invest in tools for data-driven decisions:
+Project management tools: Estimate timelines based on evidence.
+Engineering analytics tools: Optimize resource allocation.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
